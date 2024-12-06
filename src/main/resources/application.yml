@@ -1,0 +1,9 @@
+server:
+  port: 8001
+spring:
+  application:
+    name: protal
+logging:
+  level:
+    root: info
+    com.example: debug
